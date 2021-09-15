@@ -6,7 +6,7 @@
     "examples"
   ],
   "devDependencies": {
-    "@types/jest": "^24.0.25",
+    "@types/jest": "^25.1.0",
     "@types/node": "^12.7.8",
     "@typescript-eslint/eslint-plugin": "^2.20.0",
     "@typescript-eslint/parser": "^2.20.0",
@@ -14,11 +14,11 @@
     "cashproof": "https://github.com/eyeofpython/cashproof",
     "chalk": "^3.0.0",
     "codecov": "^3.6.1",
-    "eslint": "^6.8.0",
+    "eslint": "^7.16.0",
     "eslint-config-airbnb-typescript": "^7.0.0",
     "eslint-plugin-import": "^2.20.0",
-    "jest": "^24.9.0",
-    "lerna": "^3.16.0",
+    "jest": "^26.0.0",
+    "lerna": "^4.0.0",
     "ts-jest": "^24.3.0",
     "ts-node": "^8.4.1",
     "typescript": "3.7.5"
