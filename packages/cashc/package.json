@@ -54,8 +54,8 @@
   },
   "devDependencies": {
     "delay": "^4.3.0",
-    "eslint": "^6.6.0",
-    "jest": "^24.9.0",
+    "eslint": "^7.16.0",
+    "jest": "^26.0.0",
     "ts-jest": "^24.3.0",
     "typescript": "3.7.5"
   }
