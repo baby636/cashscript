@@ -18,7 +18,7 @@
     "eslint-config-airbnb-typescript": "^7.0.0",
     "eslint-plugin-import": "^2.20.0",
     "jest": "^24.9.0",
-    "lerna": "^3.16.0",
+    "lerna": "^5.5.2",
     "ts-jest": "^24.3.0",
     "ts-node": "^8.4.1",
     "typescript": "3.7.5"
