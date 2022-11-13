@@ -20,7 +20,7 @@ RUN yarn build
 # ###############################################################################
 
 # PROD IMAGE
-FROM nginx:1.17.0-alpine
+FROM nginx:mainline-alpine
 
 # Invalidate cache
 ADD "http://worldtimeapi.org/api/timezone/Europe/Amsterdam.txt" skipcache
