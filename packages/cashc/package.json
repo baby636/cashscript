@@ -50,13 +50,13 @@
     "@types/semver": "^6.0.2",
     "antlr4ts": "^0.5.0-alpha.3",
     "commander": "^6.0.0",
-    "semver": "^6.3.0"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "delay": "^4.3.0",
-    "eslint": "^6.6.0",
-    "jest": "^24.9.0",
-    "ts-jest": "^24.3.0",
+    "eslint": "^7.0.0",
+    "jest": "^26.0.0",
+    "ts-jest": "^26.0.0",
     "typescript": "3.7.5"
   }
 }
