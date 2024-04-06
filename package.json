@@ -14,7 +14,7 @@
     "cashproof": "https://github.com/eyeofpython/cashproof",
     "chalk": "^3.0.0",
     "codecov": "^3.6.1",
-    "eslint": "^6.8.0",
+    "eslint": "^9.0.0",
     "eslint-config-airbnb-typescript": "^7.0.0",
     "eslint-plugin-import": "^2.20.0",
     "jest": "^24.9.0",
